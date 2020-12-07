@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cg.dealsdateonlinegiftshopping.DealsDateOnlineGiftShoppingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 28.558 s <<< FAILURE! - in com.cg.dealsdateonlinegiftshopping.DealsDateOnlineGiftShoppingApplicationTests
+addCustomerPass  Time elapsed: 0.623 s  <<< ERROR!
+com.cg.dealsdateonlinegiftshopping.exception.UserException: User already exists, please login with your email
+	at com.cg.dealsdateonlinegiftshopping.DealsDateOnlineGiftShoppingApplicationTests.addCustomerPass(DealsDateOnlineGiftShoppingApplicationTests.java:25)
+
